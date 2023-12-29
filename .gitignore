@@ -1,2 +1,4 @@
+.ipynb_checkpoints/notes_part_III-checkpoint.ipynb
+*.ipynb_checkpoints/*
 .ipynb_checkpoints*
 *.pdf
